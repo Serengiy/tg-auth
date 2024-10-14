@@ -1,0 +1,7 @@
+{
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.13",
+        "danog/madelineproto": "^8.3",
+        "larapack/dd": "^1.1"
+    }
+}
